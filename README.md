@@ -1,1 +1,1 @@
-# AI-Resue-Analyzer
+# AI-Resume-Analyzer
